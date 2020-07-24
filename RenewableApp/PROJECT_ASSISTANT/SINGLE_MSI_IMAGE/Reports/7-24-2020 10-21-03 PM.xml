@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\InstallShield\2020\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="RenewableAPP" ProductVersion="1.0" Built="7-24-2020 10-21-03 PM" Config="PROJECT_ASSISTANT" Media="SINGLE_MSI_IMAGE" Uncompressed="0.00 MB">
+  <Features>
+    <Feature Title="##IDS_FEATURE_DISPLAY_NAME1##">RenewableAPP_Files</Feature>
+  </Features>
+  <Components>
+    <Component x64="32" KeyPath="kudosapp.exe">KudosApp.exe</Component>
+  </Components>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks />
+  <Files>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]Genpact\RenewableAPP" Component="KudosApp.exe" Modified="24-07-2020 19:36:55" Size="1035776" Version="1.0.0.0">KudosApp.exe</File>
+  </Files>
+</BuildReport>
