@@ -1,0 +1,15 @@
+C:\Renewable Project\RenewableApp\obj\Debug\RenewableApp.csprojAssemblyReference.cache
+C:\Renewable Project\RenewableApp\bin\Debug\KudosApp.exe.config
+C:\Renewable Project\RenewableApp\bin\Debug\KudosApp.exe
+C:\Renewable Project\RenewableApp\bin\Debug\KudosApp.pdb
+C:\Renewable Project\RenewableApp\obj\Debug\MainWindow.g.cs
+C:\Renewable Project\RenewableApp\obj\Debug\App.g.cs
+C:\Renewable Project\RenewableApp\obj\Debug\KudosApp_MarkupCompile.cache
+C:\Renewable Project\RenewableApp\obj\Debug\KudosApp_MarkupCompile.lref
+C:\Renewable Project\RenewableApp\obj\Debug\MainWindow.baml
+C:\Renewable Project\RenewableApp\obj\Debug\KudosApp.g.resources
+C:\Renewable Project\RenewableApp\obj\Debug\KudosApp.Properties.Resources.resources
+C:\Renewable Project\RenewableApp\obj\Debug\RenewableApp.csproj.GenerateResource.cache
+C:\Renewable Project\RenewableApp\obj\Debug\RenewableApp.csproj.CoreCompileInputs.cache
+C:\Renewable Project\RenewableApp\obj\Debug\KudosApp.exe
+C:\Renewable Project\RenewableApp\obj\Debug\KudosApp.pdb
